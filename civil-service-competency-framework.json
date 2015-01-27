@@ -1399,142 +1399,140 @@
             "title": "Making Effective Decisions"
           }
         ],
-        "seeing-the-big-picture": [
+        "seeing-the-bigger-picture": [
           {
             "description": "Seeing the big picture is about having an in-depth understanding and knowledge of how your role fits with and supports organisational objectives and the wider public needs. For all staff, it is about focusing your contribution on the activities which will meet Civil Service goals and deliver the greatest value. At senior levels, it is about scanning the political context and taking account of wider impacts to develop long term implementation strategies that maximise opportunities to add value to the citizen and support economic, sustainable growth.",
+            "level1": [
+              {
+                "effective": "Gather information from a range of relevant sources inside and outside their Department to inform own work",
+                "ineffective": "Take actions/decisions without regard to the bigger picture"
+              },
+              {
+                "effective": "Understand what is required of them in their role and how this contributes to team and Departmental priorities",
+                "ineffective": "Show little interest in the work of the Department, not appreciating they have a role in meeting priorities"
+              },
+              {
+                "effective": "Consider how their own job links with and impacts on colleagues and others in partner organisations",
+                "ineffective": "Work on own tasks in isolation showing little interest in the wider context and relevant developments outside their immediate area"
+              }
+            ],
+            "level2": [
+              {
+                "effective": "Keep up to date with a broad set of issues relating to the work of the Department",
+                "ineffective": "Have a narrow view of their role, without understanding the Department's wider activities"
+              },
+              {
+                "effective": "Develop understanding of how own and team's work supports achievement of Departmental priorities and delivery to the citizen",
+                "ineffective": "Carry out own tasks without considering how their work impacts or interacts with other teams"
+              },
+              {
+                "effective": "Focus on the overall goal and intent of what they are trying to achieve, not just the task",
+                "ineffective": "Fail to identify occasions when professional judgement and personal initiative are called for in order to deliver business objectives"
+              },
+              {
+                "effective": "Take an active interest in expanding their knowledge of areas related to own role",
+                "ineffective": "Rely solely on the knowledge they have already established about their role"
+              }
+            ],
+            "level3": [
+              {
+                "effective": "Be alert to emerging issues and trends which might impact or benefit own and team's work",
+                "ineffective": "Ignore changes in the external environment that have implications for Departmental policy and considerations"
+              },
+              {
+                "effective": "Develop an understanding of own area's strategy and how this contributes to Departmental priorities",
+                "ineffective": "Shows limited interest in or understanding of Departmental priorities and what they mean for activities in their area"
+              },
+              {
+                "effective": "Ensure own area/team activities are aligned to Departmental priorities",
+                "ineffective": "Be overly focused on team and individual activities without due regard for how they meet the demands of the Department as a whole"
+              },
+              {
+                "effective": "Actively seek out and share experience to develop understanding and knowledge of own work and of team's business area",
+                "ineffective": "Take actions which conflict with or mis-align to other activities"
+              },
+              {
+                "effective": "Seek to understand how the services, activities and strategies in the area work together to create value for the customer/end user",
+                "ineffective": "Commit to actions without consideration of the impact on the diverse needs of customers/end users – apply a „one size fits all' approach"
+              }
+            ],
+            "level4": [
+              {
+                "effective": "Anticipate economic, social, political, environmental and technological developments to keep activity relevant and targeted",
+                "ineffective": "Demonstrate lack of knowledge and insight into wider issues, developments and impacts related to own business area"
+              },
+              {
+                "effective": "Identify implications of Departmental and political priorities and strategy on own area to ensure plans and activities reflect these",
+                "ineffective": "Operate within own area without sufficient regard to how it creates value and supports the delivery ofDepartmental goals"
+              },
+              {
+                "effective": "Create policies, plans and service provision to meet citizens' diverse needs based on an up-to-date knowledge of needs, issues and relevant good practice",
+                "ineffective": "Continue to apply outdated practices which are unable to meet the diverse needs of citizens"
+              },
+              {
+                "effective": "Ensures relevant issues relating to their activity/policy area are effectively fed into strategy and big picture considerations",
+                "ineffective": "Miss opportunities to ensure important issues are considered by senior staff, raises small details as big picture issues"
+              },
+              {
+                "effective": "Adopt a Government-wide perspective to ensure alignment of activity and policy",
+                "ineffective": "Only consider the context of own business area and not those of others or of the organisation as a whole"
+              },
+              {
+                "effective": "Bring together views and perspectives of stakeholders to gain a wider picture of the landscape surrounding activities and policies",
+                "ineffective": "Lack clarity of or interest in gaining wider stakeholder perspectives"
+              }
+            ],
+            "level5": [
+              {
+                "effective": "Anticipate and predict the long term impact of national and international developments, including economic, political, environmental, social and technological, on own area",
+                "ineffective": "Have limited insight into the changes and developments surrounding own area"
+              },
+              {
+                "effective": "Identify and shape how own area fits within and supports the work of the Department",
+                "ineffective": "Give limited attention to the bigger issues and interactions across departments and outside the Civil Service when defining strategy"
+              },
+              {
+                "effective": "Develop an in-depth insight into customers, citizens, services, communities and markets affected by their area and the wider public sector context",
+                "ineffective": "Lack insight into the wider context for own area – take a simplistic perspective on the issues and concerns of stakeholders"
+              },
+              {
+                "effective": "Create joined up strategies and plans that have positive impact and add value for stakeholders, citizens and communities",
+                "ineffective": "Develop strategies and plans with limited reference to the impact and value they will bring to the key stakeholders and to citizens now and in the future"
+              },
+              {
+                "effective": "Shape strategies and plans which help put into practice and support the Department's vision and long-term direction, including those shared with other departments",
+                "ineffective": "Maintain a narrow perspective – allow own area to become out of step or work against the overall objectives of the Department"
+              }
+            ],
+            "level6": [
+              {
+                "effective": "Develop an in-depth insight into the dynamics and issues surrounding the Department and Government, including political, economic, social, environmental and technologicalimpacts",
+                "ineffective": "Focus on short term concerns, neglect long-term thinking about evolving and future issues and considerations for the Civil Service and Department"
+              },
+              {
+                "effective": "Clarify and shape the Department's role and purpose in delivering Civil Service priorities for the public and economic good",
+                "ineffective": "Show limited insight into Government expectations of the Department in generating value and growth in the UK"
+              },
+              {
+                "effective": "Understand where the Department sits within and aligns across the Civil Service",
+                "ineffective": "Focus on own immediate area of concern and not see interconnections across Civil Service"
+              },
+              {
+                "effective": "Articulate the Department's business model and help people see their role within it",
+                "ineffective": "Lack clarity about own role and that of staff in delivering the work of the Department"
+              },
+              {
+                "effective": "Create clear long-term strategies focused on adding value to the citizen and making real, lasting change beyond the Civil Service",
+                "ineffective": "Focus primarily on continuing historical activities based on short term priorities not linked to clear value and delivery for the citizen and the economy"
+              },
+              {
+                "effective": "Fully engage with and utilise Non Executive Directors wider experience and knowledge to support strategic decision making",
+                "ineffective": "Operate independently, without reference to the wider system of knowledge and experience around them"
+              }
+            ],
             "title": "Seeing the Big Picture"
           }
         ],
-        "seeing-the-bigger-picture": {
-          "level1": [
-            {
-              "effective": "Gather information from a range of relevant sources inside and outside their Department to inform own work",
-              "ineffective": "Take actions/decisions without regard to the bigger picture"
-            },
-            {
-              "effective": "Understand what is required of them in their role and how this contributes to team and Departmental priorities",
-              "ineffective": "Show little interest in the work of the Department, not appreciating they have a role in meeting priorities"
-            },
-            {
-              "effective": "Consider how their own job links with and impacts on colleagues and others in partner organisations",
-              "ineffective": "Work on own tasks in isolation showing little interest in the wider context and relevant developments outside their immediate area"
-            }
-          ],
-          "level2": [
-            {
-              "effective": "Keep up to date with a broad set of issues relating to the work of the Department",
-              "ineffective": "Have a narrow view of their role, without understanding the Department's wider activities"
-            },
-            {
-              "effective": "Develop understanding of how own and team's work supports achievement of Departmental priorities and delivery to the citizen",
-              "ineffective": "Carry out own tasks without considering how their work impacts or interacts with other teams"
-            },
-            {
-              "effective": "Focus on the overall goal and intent of what they are trying to achieve, not just the task",
-              "ineffective": "Fail to identify occasions when professional judgement and personal initiative are called for in order to deliver business objectives"
-            },
-            {
-              "effective": "Take an active interest in expanding their knowledge of areas related to own role",
-              "ineffective": "Rely solely on the knowledge they have already established about their role"
-            }
-          ],
-          "level3": [
-            {
-              "effective": "Be alert to emerging issues and trends which might impact or benefit own and team's work",
-              "ineffective": "Ignore changes in the external environment that have implications for Departmental policy and considerations"
-            },
-            {
-              "effective": "Develop an understanding of own area's strategy and how this contributes to Departmental priorities",
-              "ineffective": "Shows limited interest in or understanding of Departmental priorities and what they mean for activities in their area"
-            },
-            {
-              "effective": "Ensure own area/team activities are aligned to Departmental priorities",
-              "ineffective": "Be overly focused on team and individual activities without due regard for how they meet the demands of the Department as a whole"
-            },
-            {
-              "effective": "Actively seek out and share experience to develop understanding and knowledge of own work and of team's business area",
-              "ineffective": "Take actions which conflict with or mis-align to other activities"
-            },
-            {
-              "effective": "Seek to understand how the services, activities and strategies in the area work together to create value for the customer/end user",
-              "ineffective": "Commit to actions without consideration of the impact on the diverse needs of customers/end users – apply a „one size fits all' approach"
-            }
-          ],
-          "level4": [
-            {
-              "effective": "Anticipate economic, social, political, environmental and technological developments to keep activity relevant and targeted",
-              "ineffective": "Demonstrate lack of knowledge and insight into wider issues, developments and impacts related to own business area"
-            },
-            {
-              "effective": "Identify implications of Departmental and political priorities and strategy on own area to ensure plans and activities reflect these",
-              "ineffective": "Operate within own area without sufficient regard to how it creates value and supports the delivery ofDepartmental goals"
-            },
-            {
-              "effective": "Create policies, plans and service provision to meet citizens' diverse needs based on an up-to-date knowledge of needs, issues and relevant good practice",
-              "ineffective": "Continue to apply outdated practices which are unable to meet the diverse needs of citizens"
-            },
-            {
-              "effective": "Ensures relevant issues relating to their activity/policy area are effectively fed into strategy and big picture considerations",
-              "ineffective": "Miss opportunities to ensure important issues are considered by senior staff, raises small details as big picture issues"
-            },
-            {
-              "effective": "Adopt a Government-wide perspective to ensure alignment of activity and policy",
-              "ineffective": "Only consider the context of own business area and not those of others or of the organisation as a whole"
-            },
-            {
-              "effective": "Bring together views and perspectives of stakeholders to gain a wider picture of the landscape surrounding activities and policies",
-              "ineffective": "Lack clarity of or interest in gaining wider stakeholder perspectives"
-            }
-          ],
-          "level5": [
-            {
-              "effective": "Anticipate and predict the long term impact of national and international developments, including economic, political, environmental, social and technological, on own area",
-              "ineffective": "Have limited insight into the changes and developments surrounding own area"
-            },
-            {
-              "effective": "Identify and shape how own area fits within and supports the work of the Department",
-              "ineffective": "Give limited attention to the bigger issues and interactions across departments and outside the Civil Service when defining strategy"
-            },
-            {
-              "effective": "Develop an in-depth insight into customers, citizens, services, communities and markets affected by their area and the wider public sector context",
-              "ineffective": "Lack insight into the wider context for own area – take a simplistic perspective on the issues and concerns of stakeholders"
-            },
-            {
-              "effective": "Create joined up strategies and plans that have positive impact and add value for stakeholders, citizens and communities",
-              "ineffective": "Develop strategies and plans with limited reference to the impact and value they will bring to the key stakeholders and to citizens now and in the future"
-            },
-            {
-              "effective": "Shape strategies and plans which help put into practice and support the Department's vision and long-term direction, including those shared with other departments",
-              "ineffective": "Maintain a narrow perspective – allow own area to become out of step or work against the overall objectives of the Department"
-            }
-          ],
-          "level6": [
-            {
-              "effective": "Develop an in-depth insight into the dynamics and issues surrounding the Department and Government, including political, economic, social, environmental and technologicalimpacts",
-              "ineffective": "Focus on short term concerns, neglect long-term thinking about evolving and future issues and considerations for the Civil Service and Department"
-            },
-            {
-              "effective": "Clarify and shape the Department's role and purpose in delivering Civil Service priorities for the public and economic good",
-              "ineffective": "Show limited insight into Government expectations of the Department in generating value and growth in the UK"
-            },
-            {
-              "effective": "Understand where the Department sits within and aligns across the Civil Service",
-              "ineffective": "Focus on own immediate area of concern and not see interconnections across Civil Service"
-            },
-            {
-              "effective": "Articulate the Department's business model and help people see their role within it",
-              "ineffective": "Lack clarity about own role and that of staff in delivering the work of the Department"
-            },
-            {
-              "effective": "Create clear long-term strategies focused on adding value to the citizen and making real, lasting change beyond the Civil Service",
-              "ineffective": "Focus primarily on continuing historical activities based on short term priorities not linked to clear value and delivery for the citizen and the economy"
-            },
-            {
-              "effective": "Fully engage with and utilise Non Executive Directors wider experience and knowledge to support strategic decision making",
-              "ineffective": "Operate independently, without reference to the wider system of knowledge and experience around them"
-            }
-          ]
-        },
         "title": "Strategic Cluster - Setting Direction"
       }
     ]
