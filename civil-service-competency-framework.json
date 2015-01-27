@@ -1,0 +1,1545 @@
+{
+  "borrowedFrom": "http://www.civilservice.gov.uk/wp-content/uploads/2012/07/Civil-Service-Competency-Framework-July-2012.pdf",
+  "competencies": {
+    "people": [
+      {
+        "building-capability-for-all": [
+          {
+            "description": "Effectiveness in this area is having a strong focus on continuous learning for oneself, others and the organisation. For all staff, it's being open to learning, about keeping one's own knowledge and skill set current and evolving. At senior levels, it's about talent management and ensuring a diverse blend of capability and skills is identified and developed to meet current and future business needs. It's also about creating a learning and knowledge culture across the organisation to inform future plans and transformational change.",
+            "level1": [
+              {
+                "effective": "Identify own skills, knowledge and behaviour gaps to inform own development plan and discuss these with the line manager",
+                "ineffective": "Take a passive approach to personal development, mostly relying on others to identify learning points or dismissing constructive feedback"
+              },
+              {
+                "effective": "Recognise and take time to achieve own learning and development objectives",
+                "ineffective": "Lack interest in personal development, decline all opportunities to learn e.g. through attending programmes or engaging in work-place learning"
+              },
+              {
+                "effective": "Find ways to learn and personally improve in the completion of day-to-day tasks",
+                "ineffective": "Maintain a rigid view of daily tasks, missing opportunities to learn or to improve how they do things"
+              },
+              {
+                "effective": "Improve own performance by taking on board feedback from colleagues from different backgrounds",
+                "ineffective": "Ignore or undervalue the contributions and views of others from different backgrounds"
+              },
+              {
+                "effective": "Share learning with team and colleagues; contribute to the team's shared learning and understanding",
+                "ineffective": "Keep knowledge and expertise to themselves rather than share for the benefit of the whole team"
+              },
+              {
+                "effective": "React constructively to developmental feedback and make changes as a result",
+                "ineffective": "Do little to follow through on constructive developmental feedback, ignore or dismiss its value"
+              }
+            ],
+            "level2": [
+              {
+                "effective": "Take ownership of team and individual development by identifying capability needs and consistently achieving development objectives",
+                "ineffective": "Fail to address own capability needs or identify learning opportunities"
+              },
+              {
+                "effective": "Take responsibility for the quality of own work and seeking opportunities for improvement through continuous learning",
+                "ineffective": "Resist opportunities to broaden work responsibilities"
+              },
+              {
+                "effective": "Proactively support the development plans of others",
+                "ineffective": "Resist learning and development requests from others"
+              },
+              {
+                "effective": "Take account of the diverse contributions of team members and delegate work to improve capabilities of all",
+                "ineffective": "Tend to keep work to themselves that could be a helpful development opportunity for a team member, failing to ensure equality of opportunity"
+              },
+              {
+                "effective": "Encourage and be open to developmental feedback from others",
+                "ineffective": "Be disinterested in giving or receiving constructive feedback"
+              }
+            ],
+            "level3": [
+              {
+                "effective": "Identify and address team or individual capability requirements and gaps to deliver current and future work",
+                "ineffective": "Manage others in a weak or ineffective manner, allowing capability gaps to persist"
+              },
+              {
+                "effective": "Identify and develop all talented team members to support succession planning, devoting time to coach, mentor and develop others",
+                "ineffective": "Choose to only develop team members who reflect own capabilities, styles and strengths"
+              },
+              {
+                "effective": "Value and respond to different personal needs in the team using these to develop others and promote inclusiveness",
+                "ineffective": "Be insensitive to and unaware of the diverse aspirations and capability of all members of the team"
+              },
+              {
+                "effective": "Proactively manage own career and identify own learning needs with line manager, plan and carry out work-place learning opportunities",
+                "ineffective": "Passively expect others to identify and manage their learning needs"
+              },
+              {
+                "effective": "Continually seek and act on feedback to evaluate and improve their own and team's performance",
+                "ineffective": "Make no attempt to learn from or apply lessons of feedback"
+              }
+            ],
+            "level4": [
+              {
+                "effective": "Ensure that individual and organisational learning and talent development opportunities are fully exploited in order to enhance organisational capability",
+                "ineffective": "Ignore emerging learning and development opportunities and the sharing of that learning to benefit the organisation"
+              },
+              {
+                "effective": "Role model work-place based learning and encourage development, talent and career management for all staff",
+                "ineffective": "Not follow up on learning to ensure colleagues practise and apply new learning to the benefit of the organisation"
+              },
+              {
+                "effective": "Coach and support colleagues to take responsibility for their own development (through giving accountability, varied assignments and on-going feedback)",
+                "ineffective": "Make token efforts to coach and develop people, allow staff to de-prioritise own development"
+              },
+              {
+                "effective": "Establish and drive intra and inter team discussions to learn from experience and adapt organisational processes and plans",
+                "ineffective": "Stay ignorant of the experience of colleagues and take little notice of the potential learning available"
+              },
+              {
+                "effective": "Identify capability requirements needed to deliver future team objectives and manage team resources to meet these needs",
+                "ineffective": "Allow team capability needs to go unaddressed and fail to use development opportunities and effective performance management to maximise team capability"
+              },
+              {
+                "effective": "Prioritise and role model continuous self learning and development, including leadership, management and people skills",
+                "ineffective": "Place low priority on people management and development, seldom seek feedback or challenge, and prioritise professional expertise over leadership, management and people skills"
+              }
+            ],
+            "level5": [
+              {
+                "effective": "Champion development, talent and career management for all staff and make learning a reality by encouraging and providing a range of development experiences",
+                "ineffective": "Allow delivery to dominate to the exclusion of learning and development activities, missing out on longer term business benefits and ignoring the organisational learning dimension"
+              },
+              {
+                "effective": "Create an inclusive environment, one from which all staff, including under-represented groups, can benefit",
+                "ineffective": "Tolerate discriminatory thinking and practices when building capability in the organisation"
+              },
+              {
+                "effective": "Encourage work-place based learning, ensure colleagues take responsibility for their own learning and share it to build organisational capability",
+                "ineffective": "Fail to ensure colleagues practise and share new learning of benefit to the business"
+              },
+              {
+                "effective": "Devote dedicated time to supporting and empowering people through coaching and mentoring and sharing expertise/knowledge",
+                "ineffective": "Focus resources on technical knowledge/ skills gaps at the expense of leadership skills or development of future talent"
+              },
+              {
+                "effective": "Identify capability requirements to deliver Departmental 3-5 year strategy and grow sustainable capability across all groups including those identified as having high potential",
+                "ineffective": "Allow ineffective performance management which fails to narrow capability gaps for the organisation or grow available talent"
+              },
+              {
+                "effective": "Role model continuous learning and self development, evaluating own effectiveness and growth and planning next learning steps accordingly",
+                "ineffective": "Seldom seek feedback and fail to seize opportunities for personal development"
+              }
+            ],
+            "level6": [
+              {
+                "effective": "Champion the strategic importance of people, talent management and development issues, building a strong culture of continuous learning and knowledge sharing",
+                "ineffective": "Allow organisational learning to be lost and fail to create a climate where colleagues can apply new learning relevant to the business"
+              },
+              {
+                "effective": "Operate with an acute awareness of inclusiveness, equality and diversity and build capability strategies to support careers for all employees",
+                "ineffective": "Show little ability or commitment to enabling equal opportunities for people to realise their aspirations"
+              },
+              {
+                "effective": "Develop and maintain organisational commitment to problem solving, empowering people to experiment and achieve organisational results together",
+                "ineffective": "Allow a sense that problem solving is only for a few individuals and only at certain times"
+              },
+              {
+                "effective": "Be renowned as an effective coach and sounding board for senior people",
+                "ineffective": "Invest little personal time to develop talent and future leaders"
+              },
+              {
+                "effective": "Take a strategic perspective to identifying the capability needs of the Department and identifying and nurturing future leaders",
+                "ineffective": "Adopt a short term perspective to people and talent management issues – struggle to assess long-term and evolving people requirements for the Department"
+              },
+              {
+                "effective": "Role model continuous learning and self development, evaluating own effectiveness and growth and planning next learning steps accordingly",
+                "ineffective": "Be resistant to or dismissive of personal feedback and see personal growth as not relevant at their level"
+              }
+            ],
+            "title": "Building Capability for All"
+          }
+        ],
+        "collaborating-and-partnering": [
+          {
+            "description": "People skilled in this area create and maintain positive, professional and trusting working relationships with a wide range of people within and outside the Civil Service to help get business done. At all levels, it requires working collaboratively, sharing information and building supportive, responsive relationships with colleagues and stakeholders, whilst having the confidence to challenge assumptions. At senior levels, it's about delivering business objectives through creating an inclusive environment, encouraging collaboration and building effective partnerships including relationships with Ministers.",
+            "level1": [
+              {
+                "effective": "Proactively contribute to the work of the whole team",
+                "ineffective": "Focus on own objectives at the expense of supporting colleagues"
+              },
+              {
+                "effective": "Get to know fellow team members/colleagues and understand their viewpoints and preferences",
+                "ineffective": "Is overly critical and blaming of people who have different working styles or development needs"
+              },
+              {
+                "effective": "Seek help when needed in order to complete own work effectively",
+                "ineffective": "Miss opportunities to generate better outcomes for the customer through collaboration with others"
+              },
+              {
+                "effective": "Be open to taking on different roles",
+                "ineffective": "Assume specific, unvarying role responsibilities"
+              },
+              {
+                "effective": "Try to see issues from others' perspectives and check understanding",
+                "ineffective": "Look at issues from own viewpoint only"
+              },
+              {
+                "effective": "Listen to the views of others and show sensitivity towards others",
+                "ineffective": "Not treat all colleagues fairly, equitably or with respect"
+              }
+            ],
+            "level2": [
+              {
+                "effective": "Demonstrate interest in others and develop a range of contacts outside own team to help get the job done",
+                "ineffective": "Ignore the knowledge and expertise that a wider network of colleagues and partners can bring to the work of the team"
+              },
+              {
+                "effective": "Change ways of working to facilitate collaboration for the benefit of the team's work",
+                "ineffective": "Continue to work in set ways that make it difficult for colleagues to contribute to or benefit from the team's work"
+              },
+              {
+                "effective": "Proactively seek information, resources and support from others outside own immediate team in order to help achieve results",
+                "ineffective": "Take a narrow approach to resolving resourcing issues in own area and fail to explore other resourcing opportunities and possibilities"
+              },
+              {
+                "effective": "Readily identify opportunities to share knowledge, information and learning and make progress by working with colleagues",
+                "ineffective": "Rarely share information, or restrict it to immediate colleagues only"
+              },
+              {
+                "effective": "Listen attentively to others and check their understanding by asking questions",
+                "ineffective": "Show a lack of interest or skill in interacting with others"
+              },
+              {
+                "effective": "Take responsibility for creating a working environment that encourages equality, diversity and inclusion",
+                "ineffective": "Adopt a biased, exclusive or disrespectful manner in their dealings with others"
+              }
+            ],
+            "level3": [
+              {
+                "effective": "Establish relationships with a range of stakeholders to support delivery of business outcomes",
+                "ineffective": "Devote little or no time to networking or engaging with immediate stakeholders, preferring to work in isolation"
+              },
+              {
+                "effective": "Invest time to generate a common focus and genuine team spirit",
+                "ineffective": "Demonstrate limited capability to get the best from people and create barriers or negative feelings between and within teams"
+              },
+              {
+                "effective": "Actively seek input from a diverse range of people",
+                "ineffective": "Display little appreciation of the value of different contributions and perspectives"
+              },
+              {
+                "effective": "Readily share resources to support higher priority work, showing pragmatism and support for the shared goals of the organisation",
+                "ineffective": "Create reasons why resources and support cannot be shared"
+              },
+              {
+                "effective": "Deal with conflict in a prompt, calm and constructive manner",
+                "ineffective": "Show a lack of concern for others' perspectives"
+              },
+              {
+                "effective": "Encourage collaborative team working within own team and across the Department",
+                "ineffective": "Support individual or silo ways of working"
+              }
+            ],
+            "level4": [
+              {
+                "effective": "Actively build and maintain a network of colleagues and contacts to achieve progress on objectives and shared interests",
+                "ineffective": "Only seek to build contacts in immediate work group, neglect to create a wider network beyond this"
+              },
+              {
+                "effective": "Demonstrate genuine care for staff and others – build strong interpersonal relationships",
+                "ineffective": "Neglect to maintain relationships during difficult times"
+              },
+              {
+                "effective": "Encourage contributions and involvement from a broad and diverse range of staff by being visible and accessible",
+                "ineffective": "Operate within a narrow frame of reference and avoid adopting a fuller perspective with associated complexity"
+              },
+              {
+                "effective": "Effectively manage team dynamics when working across Departmental and other boundaries",
+                "ineffective": "Be overly protective of own initiatives and miss opportunities to network across boundaries"
+              },
+              {
+                "effective": "Actively involve partners to deliver a business outcome through collaboration that achieves better results for citizens",
+                "ineffective": "Struggle to manage, or actively ignore other parties' agendas"
+              },
+              {
+                "effective": "Seek constructive outcomes in discussions, challenge assumptions but remain willing to compromise when it is beneficial to progress",
+                "ineffective": "Push forward initiatives on basis of personal agenda or advantage and refuse to compromise; stay wedded to one outcome"
+              }
+            ],
+            "level5": [
+              {
+                "effective": "Proactively create, maintain and promote a strong network of connections with colleagues across the Department, wider Civil Service and externally",
+                "ineffective": "Focus on delivery at the expense of building networks and effective relationships across and beyond their area"
+              },
+              {
+                "effective": "Actively promote knowledge and resource sharing with peers and across functions",
+                "ineffective": "Consistently protect resources and interests of own area at the expense of Departmental priorities"
+              },
+              {
+                "effective": "Encourage and establish principles of working effectively across boundaries to support the business",
+                "ineffective": "Act selfishly to protect own area and resist involvement from external colleagues or experts"
+              },
+              {
+                "effective": "Encourage teams to engage with a variety of delivery partners and stakeholders and listen to their feedback",
+                "ineffective": "Give teams limited support about how to work collaboratively with delivery partners, discourage early engagement"
+              },
+              {
+                "effective": "Build high performing teams within own area, aligned around common goals",
+                "ineffective": "Struggle to address low morale or de-motivation within teams; create boundary or resource tensions between the teams"
+              },
+              {
+                "effective": "Set out clear expectations that bullying, harassment and discrimination are unacceptable",
+                "ineffective": "Permit unacceptable or disrespectful behaviour to persist in own area and with other teams"
+              }
+            ],
+            "level6": [
+              {
+                "effective": "Build a strong network of collaborative relationships and partnerships across the Civil Service, at the highest levels in Government and beyond (UK, EU and globally) to help Departmental and wider Civil Service objectives",
+                "ineffective": "Restrict collaboration to existing relationships, give limited attention to the importance of building networks"
+              },
+              {
+                "effective": "Be a full partner on the Board and act for the wider good of the Civil Service",
+                "ineffective": "Encourage own Department to focus on its pressures and agenda at the expense of wider collaboration"
+              },
+              {
+                "effective": "Drive a diverse and collaborative working culture which encourages transparency and open communication",
+                "ineffective": "Create and allow cliques and narrow ways of working within and across functions, promoting a „knowledge is power' culture"
+              },
+              {
+                "effective": "Confront issues and challenge assumptions at the highest levels with delivery partners, stakeholders and clients in an assertive yet constructive way",
+                "ineffective": "Not involve partners and stakeholders early on in the development of policies, services and delivery options"
+              },
+              {
+                "effective": "Work effectively with Non Executive Directors to bring together political and official leadership to improve governance at board level",
+                "ineffective": "Fail to utilise the experience and input offered by Non Executive Directors"
+              }
+            ],
+            "title": "Collaborating and Partnering"
+          }
+        ],
+        "leading-and-communicating": [
+          {
+            "description": "At all levels, effectiveness in this area is about leading from the front and communicating with clarity, conviction and enthusiasm. It's about supporting principles of fairness of opportunity for all and a dedication to a diverse range of citizens. At senior levels, it is about establishing a strong direction and a persuasive future vision; managing and engaging with people with honesty and integrity, and upholding the reputation of the Department and the Civil Service.",
+            "level1": [
+              {
+                "effective": "Put forward their own views in a clear and constructive manner, choosing an appropriate communication method, e.g. email/ telephone/ face to face",
+                "ineffective": "Talk negatively about the organisation, their team or colleagues"
+              },
+              {
+                "effective": "Act in a fair and respectful way in dealing with others",
+                "ineffective": "Show bias or a lack of respect and treat some groups more favourably than others"
+              },
+              {
+                "effective": "Write clearly in plain simple language and check work for spelling and grammar, learning from previous inaccuracies",
+                "ineffective": "Make little effort to ensure they express themselves in an effective manner that others can easily understand"
+              },
+              {
+                "effective": "Ask open questions to appreciate others' point of view",
+                "ineffective": "Withhold work information and refuse to share knowledge that would help others do a better job"
+              }
+            ],
+            "level2": [
+              {
+                "effective": "Display enthusiasm around goals and activities – adopting a positive approach when interacting with others",
+                "ineffective": "Express limited interest in goals and activities"
+              },
+              {
+                "effective": "Listen to, understand, respect and accept the value of different views, ideas and ways of working",
+                "ineffective": "Adopt a biased, exclusive or disrespectful manner in their dealings with others"
+              },
+              {
+                "effective": "Express ideas effectively, both orally and in writing, and with sensitivity and respect for others",
+                "ineffective": "Demonstrate no awareness of the impact of their behaviour on others nor consider the potential reactions of others to the ideas put forward"
+              },
+              {
+                "effective": "Confidently handle challenging conversations or interviews",
+                "ineffective": "Unable to deal objectively with conflicts and disputes when they arise"
+              },
+              {
+                "effective": "Confront and deal promptly with inappropriate language or behaviours, including bullying, harassment or discrimination",
+                "ineffective": "Avoid challenging inappropriate language or behaviours"
+              }
+            ],
+            "level3": [
+              {
+                "effective": "Take opportunities to regularly communicate and interact with staff, helping to clarify goals and activities and the links between these and Departmental strategy",
+                "ineffective": "Be rarely available to staff and others, communicate infrequently"
+              },
+              {
+                "effective": "Recognise, respect and reward the contribution and achievements of others",
+                "ineffective": "Take the credit for others' achievements"
+              },
+              {
+                "effective": "Communicate in a succinct, engaging manner and stand ground when needed",
+                "ineffective": "Give in readily when challenged"
+              },
+              {
+                "effective": "Communicate using appropriate styles, methods and timing, including digital channels, to maximise understanding and impact",
+                "ineffective": "Communicate in a set way with little variation, without tailoring messages, style and timing to the needs of the target audience"
+              },
+              {
+                "effective": "Promote the work of the Department and play an active part in supporting the Civil Service values and culture",
+                "ineffective": "Be ignorant of and/or dismissive of broader organisational values and goals, such as equality and diversity"
+              },
+              {
+                "effective": "Convey enthusiasm and energy about their work and encourage others to do the same",
+                "ineffective": "Communicate information without consideration for the audience or with limited/low levels of enthusiasm and effort"
+              }
+            ],
+            "level4": [
+              {
+                "effective": "Be visible to staff and stakeholders and regularly undertake activities to engage and build trust with people involved in area of work",
+                "ineffective": "Only speak to staff and stakeholders in a face-to-face environment when pressured to do so"
+              },
+              {
+                "effective": "Clarify strategies and plans, giving clear sense of direction and purpose for self and team",
+                "ineffective": "Leave team unclear about vision and goals of their immediate business area"
+              },
+              {
+                "effective": "Stand by, promote or defend own and team's actions and decisions where needed",
+                "ineffective": "Leave team members to cope alone in difficult situations – provide little support for their teams"
+              },
+              {
+                "effective": "Confidently engage with stakeholders and colleagues at all levels to generate commitment to goals",
+                "ineffective": "Miss opportunities to transform the team, wait for others to take the lead"
+              },
+              {
+                "effective": "Lead by example, role modelling ethics, integrity, impartiality and the elimination of bias by building diverse teams and promoting a working environment that supports the Civil Service values and code",
+                "ineffective": "Act in ways that are at odds with their expressed beliefs"
+              },
+              {
+                "effective": "Be open and inviting of the views of others and respond despite pressure to ignore, revert or concede",
+                "ineffective": "Set out a course of action and apply it without listening to others or adapting where relevant"
+              }
+            ],
+            "level5": [
+              {
+                "effective": "Lead from the front, communicating and motivating people towards stretching goals",
+                "ineffective": "Unable to translate, articulate and inspire people around vision and goals"
+              },
+              {
+                "effective": "Actively promote the Department's reputation externally and internally – publicise successes widely",
+                "ineffective": "Avoid activities to build profile within or outside the Department"
+              },
+              {
+                "effective": "Inspire staff and delivery partners to engage fully with long term vision and purpose of the Department, supporting them to make sense of change",
+                "ineffective": "Make limited effort to create clarity for others around strategy or purpose, leave staff to work through changes on their own"
+              },
+              {
+                "effective": "Actively promote diversity and equality of opportunity inside and outside the Civil Service",
+                "ineffective": "Disregard the need to consistently promote good diversity practice"
+              },
+              {
+                "effective": "Communicate with conviction and clarity in the face of tough negotiations or challenges",
+                "ineffective": "Back down readily in the face of challenge or tough negotiations"
+              },
+              {
+                "effective": "Influence external partners, stakeholders and customers successfully – secure mutually beneficial outcomes",
+                "ineffective": "Lose focus under pressure and neglect the need to agree joint outcomes"
+              }
+            ],
+            "level6": [
+              {
+                "effective": "Actively develop and protect the reputation of the Department and the Civil Service – create a sense of pride",
+                "ineffective": "Overlook opportunities to champion achievements of employees in the Department and the Civil Service"
+              },
+              {
+                "effective": "Shape, promote and exemplify desired Departmental and the Civil Service values and culture",
+                "ineffective": "Act in ways which are at odds with desired culture and values – damages the Civil Service leadership reputation internally and externally"
+              },
+              {
+                "effective": "Be highly articulate and credible at the most senior levels across and outside the Civil Service, consistently delivering inspiring, engaging and meaningful messages about the future direction",
+                "ineffective": "Lack confidence or impact at high levels, struggle with media spotlight, miss opportunities to communicate messages or give a confused or uninspiring narrative about what's important"
+              },
+              {
+                "effective": "Engage positively in debate and seek to resolve issues with peers across the Civil Service",
+                "ineffective": "Operate independently, rarely asking for input from senior colleagues and communicating infrequently"
+              },
+              {
+                "effective": "Demonstrate insight into the link between the moral and business case for equality and diversity and achieving organisational priorities",
+                "ineffective": "Disregard the link between the moral and business case for diverse and sustainable outcomes"
+              },
+              {
+                "effective": "Negotiate with and influence external partners, stakeholders and customers successfully at the highest levels",
+                "ineffective": "Lack insight into the different motivations and agendas of the variety of stakeholders"
+              }
+            ],
+            "title": "Leading and Communicating"
+          }
+        ],
+        "title": "People Cluster - Engaging People"
+      }
+    ],
+    "performance": [
+      {
+        "achieving-commercial-outcomes": [
+          {
+            "description": "Being effective in this area is about maintaining an economic, long-term focus in all activities. For all, it's about having a commercial, financial and sustainable mindset to ensure all activities and services are delivering added value and working to stimulate economic growth. At senior levels, it's about identifying economic, market and customer issues and using these to promote innovative business models, commercial partnerships and agreements to deliver greatest value; and ensuring tight commercial controls of finances, resources and contracts to meet strategic priorities.",
+            "level1": [
+              {
+                "effective": "Understand the relevant terms and conditions, including deliverables of relevant contracts",
+                "ineffective": "Demonstrate little understanding of what suppliers are obliged to deliver, how or by when"
+              },
+              {
+                "effective": "Be aware of and comply with Departmental procurement processes and know when to access commercial expertise",
+                "ineffective": "Not recognise or understand Departmental procurement procedures"
+              },
+              {
+                "effective": "Check suppliers and partners are providing relevant and timely data to monitor contracts",
+                "ineffective": "Allow inaccurate or late records"
+              },
+              {
+                "effective": "Learn about customers and suppliers needs",
+                "ineffective": "Take no steps to learn who their suppliers and customers are or to understand their interests and concerns"
+              }
+            ],
+            "level2": [
+              {
+                "effective": "Be able to identify and access departmental procurement and commercial expertise",
+                "ineffective": "Make poor quality commercial decisions or take actions without having engaged with departmental commercial experts"
+              },
+              {
+                "effective": "Understand and be able to explain departmental approach to assigning contractual and financial delegations",
+                "ineffective": "Enter into commercial arrangements without having the authority to do so"
+              },
+              {
+                "effective": "Recognise when deliverables and/or services derived from a commercial arrangement are not being delivered to the required level of quality or standard and take appropriate action",
+                "ineffective": "Not raise issues when cost or outcomes drift significantly from agreements"
+              },
+              {
+                "effective": "Fully meet commercial confidentiality and data security requirements in contracts",
+                "ineffective": "Put confidentiality and other security requirements at risk"
+              }
+            ],
+            "level3": [
+              {
+                "effective": "Consider, in consultation with commercial experts, alternative ways of working with partners and contractors to identify more efficient outcomes, balancing cost, quality and turn around times",
+                "ineffective": "Overlook opportunities for continuous improvement in service delivery"
+              },
+              {
+                "effective": "Work with commercial experts in engaging effectively and intelligently with delivery partners in order to define and/or improve service delivery",
+                "ineffective": "Lack impact when engaging with commercial experts and delivery partners through misunderstanding commercial issues"
+              },
+              {
+                "effective": "Gather and use evidence to assess the costs, benefits and risks of a wide range of delivery options when making commercial decisions",
+                "ineffective": "Take a narrow view of options and focus only on cost, rather than long term value and impact"
+              },
+              {
+                "effective": "Identify and understand relevant legal and commercial terms, concepts, policies and processes (including project approvals and assurance procedures) to deliver agreed outcomes",
+                "ineffective": "Show a lack of understanding about relevant commercial concepts processes and systems"
+              }
+            ],
+            "level4": [
+              {
+                "effective": "Work effectively with different organisations such as private sector and voluntary groups (in tandem with commercial experts) to commission and source solutions to achieve policy and organisational goals",
+                "ineffective": "Take a narrow view on options for delivering policy and business goals"
+              },
+              {
+                "effective": "Understand the commercial drivers that will influence a private or third sector organisation and the levers that can be used in negotiating/influencing contractual arrangements",
+                "ineffective": "Show little or no understanding or appreciation of the economic or commercial drivers that will influence the behaviour of suppliers"
+              },
+              {
+                "effective": "Be able to recognise and understand the commercial tools such as pricing models, open book accounting, supply chain management that commercial experts can deploy to extract value from contracts",
+                "ineffective": "Has little or no knowledge or understanding of the commercial tools used to extract value from contracts"
+              },
+              {
+                "effective": "Interact confidently and effectively as an intelligent and highly credible customer with counterparts from the commercial delivery organisations and commercial experts",
+                "ineffective": "Demonstrate low levels of knowledge or commercial understanding, and lose respect from suppliers or other commercial counterparts"
+              },
+              {
+                "effective": "Question and challenge the value being delivered through commercial arrangements with delivery partners",
+                "ineffective": "Overlook or ignore the detail or shortcomings in contract delivery"
+              },
+              {
+                "effective": "Motivate improved performance by suppliers, challenge any gaps between contractual commitments and actual delivery through joint working with commercial/procurement experts",
+                "ineffective": "Take it for granted that suppliers are delivering what is needed"
+              }
+            ],
+            "level5": [
+              {
+                "effective": "Identify and implement different ways of working deployed in other sectors e.g. using resources, assets and commercial arrangements",
+                "ineffective": "Overlook opportunities for collaboration with commercial partners to deliver more sustainable outcomes"
+              },
+              {
+                "effective": "Promote a strong focus on the needs of customers, suppliers and other delivery partners to develop new commercial models for the delivery of policy and business goals",
+                "ineffective": "Define success too narrowly and focus mostly on own concerns, ignoring opportunities to form commercial alliances which could support delivery"
+              },
+              {
+                "effective": "Manage strategic commercial relationships and delivery arrangements actively and effectively to provide ongoing value for money to the tax payer",
+                "ineffective": "Show limited active management of commercial arrangements associated with delivery of policy and business outcomes"
+              },
+              {
+                "effective": "Develop and apply market and economic understanding and insights, working with commercial experts, to support sound commercial decision-making and recommendations",
+                "ineffective": "Rarely approach or see limited value in working proactively with commercial experts to support commercial activities"
+              },
+              {
+                "effective": "Take a wide view, successfully achieving common goals with organisations that have different priorities",
+                "ineffective": "Do little to manage the strategic commercial relationship with delivery partners resulting in little or no longer term information sharing or planning"
+              },
+              {
+                "effective": "Ensure teams appreciate how market demands, investment decisions and other commercial considerations such as funding and pricing models influence suppliers and the delivery of services",
+                "ineffective": "Allow teams to be unaware of important commercial considerations for suppliers and other delivery partners"
+              }
+            ],
+            "level6": [
+              {
+                "effective": "Role model strong leadership, influence and accountability for the achievement of commercial outcomes relevant to organisational goals",
+                "ineffective": "Show little evidence of leadership and accountability for delivering commercial outcomes"
+              },
+              {
+                "effective": "Draw on insights about the current and future dynamics in the economy to seize opportunities to stimulate economic growth",
+                "ineffective": "Pay little regard to social needs or protecting and enhancing the resources required to sustain economic growth"
+              },
+              {
+                "effective": "Seek out and facilitate the introduction of innovative business models, systems and approaches to deliver greater commerciality and sustainability",
+                "ineffective": "Allow ineffective business models or systems to continue, leading to a clear waste of money or resource"
+              },
+              {
+                "effective": "Commission strategic commercial relationships with delivery partners using strong influencing skills",
+                "ineffective": "Pay little attention to the delivery of outcomes and benefits from strategic commercial relationships"
+              },
+              {
+                "effective": "Ensure that all staff have appropriate levels of commercial awareness while creating and embedding an organisational culture that supports this",
+                "ineffective": "Do little to ensure that staff are equipped to consider commercial issues in shaping and developing policy and/or operational services"
+              },
+              {
+                "effective": "Ensure that commercial considerations and risks are fully considered in policy and implementation decision making, formation and delivery",
+                "ineffective": "Show little evidence of commercial understanding when shaping policies with senior stakeholders"
+              }
+            ],
+            "title": "Achieving Commercial Outcomes"
+          }
+        ],
+        "delivering-at-pace": [
+          {
+            "description": "Effectiveness in this area means focusing on delivering timely performance with energy and taking responsibility and accountability for quality outcomes. For all staff, it's about working to agreed goals and activities and dealing with challenges in a responsive and constructive way. At senior levels, it is about building a performance culture to deliver outcomes with a firm focus on prioritisation and addressing performance issues resolutely, fairly and promptly. It is also about leaders providing the focus and energy to drive activities forward through others and encourage staff to perform effectively during challenging and changing times.",
+            "level1": [
+              {
+                "effective": "Work in an organised manner using own knowledge and expertise to deliver on time and to standard",
+                "ineffective": "Show little interest in own work or in getting the job done properly"
+              },
+              {
+                "effective": "Work with energy and pace to get the job done",
+                "ineffective": "Wait to be told what to do and rely on others to sort out problems"
+              },
+              {
+                "effective": "Take responsibility for the quality of own work and keep manager informed of how the work is progressing",
+                "ineffective": "Ignore own part in ensuring their team can deliver and avoid supporting colleagues to get the job done even when the need is clear"
+              },
+              {
+                "effective": "Remain focused on delivery",
+                "ineffective": "Be easily discouraged or distracted"
+              },
+              {
+                "effective": "Maintain consistent performance",
+                "ineffective": "Give up quickly when things do not go smoothly"
+              },
+              {
+                "effective": "Participate in quality assurance of products or services",
+                "ineffective": "Miss the opportunity to suggest improvements through quality assurance"
+              }
+            ],
+            "level2": [
+              {
+                "effective": "Create regular reviews of what and who is required to make a project/activity successful and make ongoing improvements",
+                "ineffective": "Fail to maintain pace and progress"
+              },
+              {
+                "effective": "Be interested and positive about what they and the team are trying to achieve",
+                "ineffective": "Display limited interest or positivity for their role or purpose"
+              },
+              {
+                "effective": "Take ownership of problems in their own area of responsibility",
+                "ineffective": "Avoid responsibility for dealing with problems"
+              },
+              {
+                "effective": "Remain positive and focused on achieving outcomes despite setbacks",
+                "ineffective": "Fail to adjust or react negatively when things change or go wrong"
+              },
+              {
+                "effective": "Check own and team performance against outcomes, make improvement suggestions or take corrective action when problems are identified",
+                "ineffective": "Neglect performance reviews and so be unable to give timely and constructive feedback"
+              },
+              {
+                "effective": "Set and achieve challenging goals and monitor quality",
+                "ineffective": "Blame others for poor quality work"
+              }
+            ],
+            "level3": [
+              {
+                "effective": "Successfully manage, support and stretch self and team to deliver agreed goals and objectives",
+                "ineffective": "Give people work to do without supporting them to develop the skills and knowledge they need for the job"
+              },
+              {
+                "effective": "Show a positive approach in keeping their own and the team's efforts focused on the goals that really matter",
+                "ineffective": "Allow work flow to lose momentum or drift away from priorities"
+              },
+              {
+                "effective": "Take responsibility for delivering expected outcomes on time and to standard, giving credit to teams and individuals as appropriate",
+                "ineffective": "Give little or no support to others in managing poor performance, allow others' problems and obstacles to hamper progress"
+              },
+              {
+                "effective": "Plan ahead but reassess workloads and priorities if situations change or people are facing conflicting demands",
+                "ineffective": "Show no consideration for diversity-related needs of the team when organising the workload"
+              },
+              {
+                "effective": "Regularly monitor own and team's work against milestones or targets and act promptly to keep work on track and maintain performance",
+                "ineffective": "Allow poor performance to go unchallenged, causing workload issues for other team members"
+              },
+              {
+                "effective": "Coach and support others to set and achieve challenging goals for themselves",
+                "ineffective": "Allow organisational and other obstacles, including a lack of support, to stand in the way of own and others' aspirations"
+              }
+            ],
+            "level4": [
+              {
+                "effective": "Get the best out of people by giving enthusiastic and encouraging messages about priorities, objectives and expectations",
+                "ineffective": "Lose focus, giving a confusing sense of what is important"
+              },
+              {
+                "effective": "Clarify business priorities, roles and responsibilities and secure individual and team ownership",
+                "ineffective": "Take the credit for delivery of outcomes without acknowledging the contribution of their teams"
+              },
+              {
+                "effective": "Adopt clear processes and standards for managing performance at all levels",
+                "ineffective": "Fail to set standards for timeliness and quality of monitoring in their own area of responsibility"
+              },
+              {
+                "effective": "Act as a role model in supporting and energising teams to build confidence in their ability to deliver outcomes",
+                "ineffective": "Overly focus on task delivery at expense of motivating and building capability to perform"
+              },
+              {
+                "effective": "Maintain effective performance in difficult and challenging circumstances, encouraging others to do the same",
+                "ineffective": "Fail to take a constructive approach to adversity, resorting quickly to blaming others for shortcomings"
+              },
+              {
+                "effective": "Review, challenge and adjust performance levels to ensure quality outcomes are delivered on time, rewarding success",
+                "ineffective": "Allow performance to drop without challenging quickly and responsively - continually focus on the negatives"
+              }
+            ],
+            "level5": [
+              {
+                "effective": "Translate strategic priorities into clear outcome-focused objectives for managers and provide the energy and drive in achievement of these objectives",
+                "ineffective": "Set unrealistic, vague or uninspiring goals and lack clarity around expected outcomes"
+              },
+              {
+                "effective": "Take ownership of delivery against outcomes and give credit for others' delivery",
+                "ineffective": "Present delivery as someone else's issue"
+              },
+              {
+                "effective": "Maintain a strong focus on priorities, holding others to account for priorities and swiftly respond to changing requirements",
+                "ineffective": "Constantly revisit and revise priorities"
+              },
+              {
+                "effective": "Drive a performance culture within own area and support and encourage a focus on performance and priorities",
+                "ineffective": "Give limited personal support for delivery and allow the focus to drift away from critical priorities"
+              },
+              {
+                "effective": "Act as a role model for delivery by injecting enthusiasm and energy to achieve results",
+                "ineffective": "Put an overly strong focus on achieving tasks without efforts to motivate and energise people to perform"
+              },
+              {
+                "effective": "Promote resilience and responsiveness in the organisation by being open and honest about challenges, and the actions required to address unexpected developments",
+                "ineffective": "Overlook the impact of challenges and the impact on team and organisational resilience"
+              }
+            ],
+            "level6": [
+              {
+                "effective": "Set, maintain and ensure a clear direction for the Department, with highly focused priorities and project outcomes",
+                "ineffective": "Display imprecision and lack of purpose about direction and focus of the Department"
+              },
+              {
+                "effective": "Retain accountability for achieving strategic priorities and outcomes",
+                "ineffective": "Allow the Department's focus to drift away from critical priorities and do not measure performance against them"
+              },
+              {
+                "effective": "Swiftly re-focus the Department on new priorities as changing situations dictate",
+                "ineffective": "Stick to strategy even when it is superseded by events which necessitate a change"
+              },
+              {
+                "effective": "Drive a performance culture across the Department and achieve results through others, resolutely holding them accountable for outcomes",
+                "ineffective": "Allow the Department to get away with poor results and inaction"
+              },
+              {
+                "effective": "Encourage, support and coach individuals and teams across the Department to energise delivery",
+                "ineffective": "Expect people to perform with enthusiasm without giving support and encouragement"
+              },
+              {
+                "effective": "Enable the organisation to remain focussed on core priorities irrespective of external challenges",
+                "ineffective": "Readily allow problems or external challenges to distract the Department from its core priorities"
+              }
+            ],
+            "title": "Delivering at Pace"
+          }
+        ],
+        "delivering-value-for-money": [
+          {
+            "description": "Delivering value for money involves the efficient, effective and economic use of taxpayers' money in the delivery of public services. For all staff, it means seeking out and implementing solutions which achieve the best mix of quality and effectiveness for the least outlay. People who do this well base their decisions on evidenced information and follow agreed processes and policies, challenging these appropriately where they appear to prevent good value for money. At senior levels, effective people embed a culture of value for money within their area/function. They work collaboratively across boundaries to ensure that the Civil Service maximises its strategic outcomes within the resources available.",
+            "level1": [
+              {
+                "effective": "Challenge others appropriately where they see wastage",
+                "ineffective": "Be careless or wasteful with resources or see where resources are being wasted but not raise this with team or manager"
+              },
+              {
+                "effective": "Be careful with all types of resource (e.g. money, time, materials, fuel, energy) that they use",
+                "ineffective": "Frequently choose convenience over cost effectiveness"
+              },
+              {
+                "effective": "Keep track of spend and make sure work is approved and signed off as necessary",
+                "ineffective": "Not follow appropriate control or authorisation processes for work, services or resource use"
+              },
+              {
+                "effective": "Handle numbers confidently, collate information ensuring accuracy of financial and performance data",
+                "ineffective": "Produce inaccurate financial and performance data with errors or omissions"
+              },
+              {
+                "effective": "Maintain recognised financial procedures and practices",
+                "ineffective": "Cut corners and not keep accurate financial records"
+              }
+            ],
+            "level2": [
+              {
+                "effective": "Manage information and financial data so that it is accurate, easily located and reusable",
+                "ineffective": "Ignore financial management information procedures"
+              },
+              {
+                "effective": "Can account for expenditure and create well supported argument for extra expenditure e.g. overtime",
+                "ineffective": "Misunderstand basic financial concepts"
+              },
+              {
+                "effective": "Take opportunities to challenge misuse of resources in order to achieve value for money and sustainable ways of working",
+                "ineffective": "Favour the easiest method even if it is not the most cost effective – struggle to identify value for money opportunities"
+              },
+              {
+                "effective": "Understand that all actions have a cost and choose the most effective way to do something in a resource efficient way",
+                "ineffective": "Avoid using recommended tools and allow their team to do likewise"
+              },
+              {
+                "effective": "Ensure that recognised control procedures and practices are maintained",
+                "ineffective": "Use control and governance procedures and practices inappropriately or irregularly and allow their teams to do the same"
+              },
+              {
+                "effective": "Monitor resources against plans and budget, identify and flag up variances",
+                "ineffective": "Not manage resources against plan"
+              }
+            ],
+            "level3": [
+              {
+                "effective": "Recommend actions to achieve value for money and efficiency",
+                "ineffective": "Ignore financial experts – not ask for advice or seek advice at the right time"
+              },
+              {
+                "effective": "Cultivate and encourage an awareness of cost, using clear simple examples of benefits and how to measure outcomes",
+                "ineffective": "Reserve resources for own team without considering wider business priorities or the organisation's financial environment"
+              },
+              {
+                "effective": "Work confidently with performance management and financial data to prepare forecasts and manage and monitor budget against agreed plans",
+                "ineffective": "Misinterpret or over-estimate performance and financial data used to forecast and monitor budgets and plans"
+              },
+              {
+                "effective": "Follow appropriate financial procedures to monitor contracts to ensure deliverables are achieved",
+                "ineffective": "Ignore the organisation's financial procedures or break rules for the sake of expediency"
+              },
+              {
+                "effective": "Monitor the use of resources in line with organisational procedures and plans and hold team to account",
+                "ineffective": "Be unable to justify own and their teams' use of resources"
+              }
+            ],
+            "level4": [
+              {
+                "effective": "Understand impacts of financial position in own area and that of the organisation and use insight to curtail or support business and investment activities",
+                "ineffective": "Overlook the impact of decisions on the whole organisation and make recommendations without awareness of the wider financial position"
+              },
+              {
+                "effective": "Achieve the best return on investment and deliver more for less on specific budgets by managing resources and maximising the use of assets",
+                "ineffective": "Deliberately spend money up to the level of the available budget, ignoring the effectiveness of committing the expenditure"
+              },
+              {
+                "effective": "Balance policy aspiration and delivery, outline risk and benefits of different options to achieve value for money ensuring all submissions contain appropriate financial information",
+                "ineffective": "Be overly focused on minimising expenditure rather than ensuring it is well spent and will provide lasting added value"
+              },
+              {
+                "effective": "Weigh up priority and benefits of different actions and activities to consider how to achieve cost effective outcomes",
+                "ineffective": "Omit financial information from decision making and business planning"
+              },
+              {
+                "effective": "Work with financial processes and tools to evaluate options and ensure financial and management information are accurately reflected in business plans",
+                "ineffective": "Present business plans and cases that are not supported by robust or accurate financial and management information"
+              }
+            ],
+            "level5": [
+              {
+                "effective": "Understand the financial position of own area, the organisation and the wider economy and recognise impacts of this when delivering services",
+                "ineffective": "Overlook opportunities to gather and make use of financial information in development of policy and plans"
+              },
+              {
+                "effective": "Make and encourage strategic choices on spend, challenge high risk costly projects and forgo non-priority expenditure",
+                "ineffective": "Take narrow view that low cost equates to good value"
+              },
+              {
+                "effective": "Promote and visibly demonstrate a culture of value for money in own area/function in order to focus managers on getting a good return for taxpayers' money",
+                "ineffective": "Adopt a short-term, incremental view of resource thus compromising sustainability of resource savings"
+              },
+              {
+                "effective": "Interpret a wide range of financial and management information and use financial data effectively in decisions",
+                "ineffective": "Rarely use financial or management information to support analysis and decision making"
+              },
+              {
+                "effective": "Develop robust business cases, with fully costed options identifying clear policy advantages and/or returns on investment to assist decision making",
+                "ineffective": "Recommend investment or cost not justified by the likely return"
+              },
+              {
+                "effective": "Understand and manage the risks and cost-drivers for own areas of responsibility in the context of strategic priority",
+                "ineffective": "Take a narrow approach to costs and cost-drivers"
+              }
+            ],
+            "level6": [
+              {
+                "effective": "Drive and deliver a culture that emphasises continuous improvement, efficiency and value for money",
+                "ineffective": "Sign off spending with insufficient challenge or scrutiny"
+              },
+              {
+                "effective": "Maintain a clear focus on maximising resource efficiency, continually questioning the value of activities against strategic priorities",
+                "ineffective": "Allow non-core activities to divert funds and make decisions not in the best long-term financial interest of the Department"
+              },
+              {
+                "effective": "Be fluent at interpreting a wide range of financial and performance information and use this to determine policy and strategy delivery",
+                "ineffective": "Develop policy or strategy with insufficient exploration and consideration of financial or management information"
+              },
+              {
+                "effective": "Maintain good financial and budgetary discipline by ensuring accountability for financial controls and systems",
+                "ineffective": "Fail to deliver outcomes or strategy by significantly under or over-spending against agreed plans"
+              },
+              {
+                "effective": "Demonstrate transparency both in terms of decisions made around financial choices and money spent",
+                "ineffective": "Fail to demonstrate a full consideration of the financial aspects of a business decision and ignore the need for transparency and audit"
+              }
+            ],
+            "title": "Delivering Value for Money"
+          }
+        ],
+        "managing-a-quality-service": [
+          {
+            "description": "Effectiveness in this area is about being organised to deliver service objectives and striving to improve the quality of service, taking account of diverse customer needs and requirements. People who are effective plan, organise and manage their time and activities to deliver a high quality and efficient service, applying programme and project management approaches to support service delivery. At senior levels, it is about creating an environment to deliver operational excellence and creating the most appropriate and cost effective delivery models for public services.",
+            "level1": [
+              {
+                "effective": "Communicate in a way that meets and anticipates the customer's requirements and gives a favourable impression of the Civil Service",
+                "ineffective": "Communicate with customers in a negative or unprepared way"
+              },
+              {
+                "effective": "Actively seek information from customers to understand their needs and expectations",
+                "ineffective": "Act without thinking through the necessary steps and disregard the customer's circumstances"
+              },
+              {
+                "effective": "Act to prevent problems, reporting issues where necessary",
+                "ineffective": "Allow service levels to drop or problems to occur before reporting"
+              },
+              {
+                "effective": "Gain the knowledge needed to follow the relevant legislation, policies, procedures and rules that apply to the job",
+                "ineffective": "Miss opportunities to learn or find out about relevant guidance and rules"
+              },
+              {
+                "effective": "Encourage customers to access relevant information or support that will help them understand and use services more effectively",
+                "ineffective": "Keep customers in the dark about relevant and useful information or partners"
+              },
+              {
+                "effective": "Take ownership of issues, focus on providing the right solution and keep customers and delivery partners up to date with progress",
+                "ineffective": "Treat people unfairly or make unrealistic commitments"
+              }
+            ],
+            "level2": [
+              {
+                "effective": "Explain clearly to customers what can be done",
+                "ineffective": "Give customers and delivery partners an unrealistic picture of what is possible or focus on what cannot be done"
+              },
+              {
+                "effective": "Work with team to set priorities, create clear plans and manage all work to meet the needs of the customer and the business",
+                "ineffective": "Always rely on others to focus and plan their work"
+              },
+              {
+                "effective": "Ensure that levels of service are maintained – flag up risks or concerns in order to meet customer requirements",
+                "ineffective": "Focus on immediate service delivery problems and neglect overall quality or customer/end user needs"
+              },
+              {
+                "effective": "Keep internal teams, customers and delivery partners fully informed of plans and possibilities",
+                "ineffective": "Provide infrequent, unclear, insufficient updates to others in need of the information"
+              },
+              {
+                "effective": "Promote adherence to relevant policies, procedures, regulations and legislation, including equality and diversity and health and safety",
+                "ineffective": "Pay little attention to highlighting and explaining the reasons for compliance"
+              },
+              {
+                "effective": "Identify common problems or weaknesses in policy or procedures that affect service and escalate these",
+                "ineffective": "Show a lack of desire to improve the quality of service"
+              }
+            ],
+            "level3": [
+              {
+                "effective": "Make effective use of project management skills and techniques to deliver outcomes, including identifying risks and mitigating actions",
+                "ineffective": "Has minimal understanding of what could go wrong or needs to be resolved as a priority"
+              },
+              {
+                "effective": "Develop, implement, maintain and review systems and service standards to provide quality, efficiency and value for money",
+                "ineffective": "Focus on delivering the task to the exclusion of meeting customer/end user requirements and needs"
+              },
+              {
+                "effective": "Work with team to set priorities, goals, objectives and timescales",
+                "ineffective": "Allocate or delegate work without clarifying deadlines or priorities"
+              },
+              {
+                "effective": "Establish mechanisms to seek out and respond to feedback from customers about service provided",
+                "ineffective": "Be unable to explain common customer problems or needs and how these are evolving"
+              },
+              {
+                "effective": "Promote a culture that tackles fraud and deception, keeping others informed of outcomes",
+                "ineffective": "Not give sufficient priority and attention to ensuring that fraud and deception is being tackled"
+              },
+              {
+                "effective": "Develop proposals to improve the quality of service with involvement from a diverse range of staff, stakeholders or delivery partners",
+                "ineffective": "Generate limited proposals to create service improvements and do so with little involvement of staff"
+              }
+            ],
+            "level4": [
+              {
+                "effective": "Exemplify positive customer service behaviours and promote a culture focused on ensuring customer needs are met",
+                "ineffective": "Take little action when customer needs are not being met"
+              },
+              {
+                "effective": "Establish how the business area compares to customer service expectations and industry best practice and identify necessary improvements in plans",
+                "ineffective": "Ignore external trends that impact on the business area"
+              },
+              {
+                "effective": "Make clear, pragmatic and manageable plans for service delivery using programme and project management disciplines",
+                "ineffective": "Allow programmes or service delivery to lose momentum and focus and have no contingencies in place"
+              },
+              {
+                "effective": "Create regular opportunities for staff and customers to help improve service quality and demonstrate a visible involvement",
+                "ineffective": "Make changes to service delivery with minimal involvement from others"
+              },
+              {
+                "effective": "Ensure the service offer thoroughly considers customers' needs and a broad range of available methods to meet this, including new technology where relevant",
+                "ineffective": "Maintain a limited or out-dated view of how to respond to customers' needs"
+              },
+              {
+                "effective": "Ensure adherence to legal and regulatory requirements in service delivery and build diversity and equality considerations into plans",
+                "ineffective": "Disregard non–compliance with policies, rules and legal requirements and allow unfair or discriminatory practices"
+              }
+            ],
+            "level5": [
+              {
+                "effective": "Facilitate flexible use of resources across grades through innovative structuring of teams and resources within own area",
+                "ineffective": "Maintain status quo in organisational structures and lack a flexible approach to manage resources and services"
+              },
+              {
+                "effective": "Clarify and articulate the diverse requirements of customers and delivery partners to support effective delivery",
+                "ineffective": "Spend limited time on seeking out and clarifying customer requirements of the Department"
+              },
+              {
+                "effective": "Use customer insight to determine and drive customer service outcomes and quality throughout own area",
+                "ineffective": "Not involve delivery partners sufficiently in delivering quality and customer service outcomes"
+              },
+              {
+                "effective": "Translate complex aims into clear and manageable plans and determine resource requirements to support implementation",
+                "ineffective": "Be unclear about overall service deliverables and resources required for implementation"
+              },
+              {
+                "effective": "Maintain and improve service by managing risks to ensure own area and partners deliver against defined outcomes",
+                "ineffective": "Establish unrealistic or confusing priorities and plans, leading to inefficiency in service/overlaps between activities"
+              },
+              {
+                "effective": "Work collaboratively with customers or service delivery partners to manage, monitor and deliver against service level agreements",
+                "ineffective": "Set service level agreements which cannot be delivered and fail to engage effectively or manage expectations with delivery partners"
+              }
+            ],
+            "level6": [
+              {
+                "effective": "Ensure an in-depth and evolving understanding of the broad range of customer requirements is embedded in the Department",
+                "ineffective": "Allow the Department to operate with only superficial understanding of the customer/end user requirements"
+              },
+              {
+                "effective": "Determine and drive customer service outcomes at a broad strategic level and work across Government to deliver best quality service to customers",
+                "ineffective": "Give little attention to defining the customer requirement in setting strategic priorities"
+              },
+              {
+                "effective": "Ensure all parts of the delivery chain fully understand the required outcomes for the customer and articulate the impact of poor service on the Department's reputation to all involved",
+                "ineffective": "Give insufficient clarity around customer needs to the delivery partners and lose sight of which partner is responsible for delivery"
+              },
+              {
+                "effective": "Create a culture of working with and through delivery partners to achieve outcomes, establish and negotiate service levels and deliverables",
+                "ineffective": "Not give sufficient attention to managing customer expectations and outcomes at the highest levels"
+              },
+              {
+                "effective": "Define and integrate clear structures, systems and resources required across the Department to promote efficient service delivery",
+                "ineffective": "Establish unrealistic or confusing priorities and strategies at the highest level, leading to inefficiencies in service delivery"
+              }
+            ],
+            "title": "Managing a Quality Service"
+          }
+        ],
+        "title": "Performance Cluster - Delivering Results"
+      }
+    ],
+    "strategic": [
+      {
+        "changing-and-improving": [
+          {
+            "description": "People who are effective in this area are responsive, innovative and seek out opportunities to create effective change. For all staff, it's about being open to change, suggesting ideas for improvements to the way things are done, and working in „smarter', more focused ways. At senior levels, this is about creating and contributing to a culture of innovation and allowing people to consider and take managed risks. Doing this well means continuously seeking out ways to improve policy implementation and build a leaner, more flexible and responsive Civil Service. It also means making use of alternative delivery models including digital and shared service approaches wherever possible.",
+            "level1": [
+              {
+                "effective": "Review working practices and come up with ideas to improve the way things are done",
+                "ineffective": "Remain attached to outdated procedures and technologies"
+              },
+              {
+                "effective": "Learn new procedures, seek to exploit new technologies and help colleagues to do the same",
+                "ineffective": "Adopt new processes without reporting difficulties that occur"
+              },
+              {
+                "effective": "Co-operate with and be open to the possibilities of change and consider ways to implement and adapt to change in own work role",
+                "ineffective": "Constantly make negative comments about change – unwilling to consider how change could help in own role"
+              },
+              {
+                "effective": "Be constructive in raising issues with managers about implemented changes and the impact these are having on the service",
+                "ineffective": "Be resistant to listening to ideas or plans for change, showing little interest in the reasons for change and how they can adapt their behaviour to thrive in the new environment"
+              },
+              {
+                "effective": "Respond effectively to emergencies",
+                "ineffective": "Resistant to sudden changes to usual work routine"
+              }
+            ],
+            "level2": [
+              {
+                "effective": "Understand and apply technology to achieve efficient and effective business and personal results",
+                "ineffective": "Avoid use of technology and stick to tried and tested means of delivering business objectives"
+              },
+              {
+                "effective": "Consider and suggest ideas for improvements, sharing this feedback with others in a constructive manner",
+                "ineffective": "Be reluctant to consider ways to improve services in own area, even when improvements are urgently required"
+              },
+              {
+                "effective": "Conduct regular reviews of what and who is required to make a project/activity successful and make on-going improvements",
+                "ineffective": "Stick rigidly to the original brief, not adapting support/input to changing needs"
+              },
+              {
+                "effective": "Put aside preconceptions and consider new ideas on their own merits",
+                "ineffective": "Avoid considering different approaches, accepting the established way of doing things"
+              },
+              {
+                "effective": "Help colleagues, customers and corporate partners to understand changes and why they have been introduced",
+                "ineffective": "Dismiss colleagues' concerns about change and miss opportunities to discuss with them what is behind their concerns"
+              },
+              {
+                "effective": "Identify, resolve or escalate the positive and negative effects that change may have on own role/team",
+                "ineffective": "Implement change in a thoughtless and unstructured way, having not considered the possible effects it may have on others"
+              }
+            ],
+            "level3": [
+              {
+                "effective": "Find ways to improve systems and structures to deliver with more streamlined resources",
+                "ineffective": "Retain resource intensive systems and structures that are considered too difficult to change"
+              },
+              {
+                "effective": "Regularly review procedures or systems with teams to identify improvements and simplify processes and decision making",
+                "ineffective": "Repeat mistakes and overlook lessons learned from changes that have been less effective in the past"
+              },
+              {
+                "effective": "Be prepared to take managed risks, ensuring these are planned and their impact assessed",
+                "ineffective": "Have ideas that are unfocused and have little connection to the realities of the business or customer needs"
+              },
+              {
+                "effective": "Actively encourage ideas from a wide range of sources and stakeholders and use these to inform own thinking",
+                "ineffective": "Not listen to suggested changes and not give reasons as to why the suggestion is not feasible"
+              },
+              {
+                "effective": "Be willing to meet the challenges of difficult or complex changes, encouraging and supporting others to do the same",
+                "ineffective": "Resist changing own approach in response to the new demands - adopting a position of „always done things like this'"
+              },
+              {
+                "effective": "Prepare for and respond appropriately to the range of possible effects that change may have on own role/team",
+                "ineffective": "Take little responsibility for suggesting or progressing changes due to perceived lack of control of processes"
+              }
+            ],
+            "level4": [
+              {
+                "effective": "Understand and identify the role of technology in public service delivery and policy implementation",
+                "ineffective": "Ignore developments in technology that could benefit public service delivery and policy implementation"
+              },
+              {
+                "effective": "Encourage a culture of innovation focused on adding value – give people space to think creatively",
+                "ineffective": "Take a narrow and risk averse approach to proposed new approaches by not taking or following up on ideas seriously"
+              },
+              {
+                "effective": "Effectively capture, utilise and share customer insight and views from a diverse range of stakeholders to ensure better policy and delivery",
+                "ineffective": "Fail to effectively capture, utilise and share customer insight appropriately in the development of policies and services"
+              },
+              {
+                "effective": "Spot warning signs of things going wrong and provide a decisive response to significant delivery challenges",
+                "ineffective": "Remain wedded to the course that they have set and unresponsive to the changing demands of the situation"
+              },
+              {
+                "effective": "Provide constructive challenge to senior management on change proposals which will affect own business area",
+                "ineffective": "Spend limited time on engaging experts and relevant individuals in developing and testing proposals, failing to pass on relevant staff feedback"
+              },
+              {
+                "effective": "Consider the cumulative impact on own business area of implementing change (culture, structure, service and morale)",
+                "ineffective": "Give limited time to acknowledging anxieties and overcoming cynicism"
+              }
+            ],
+            "level5": [
+              {
+                "effective": "Seek and encourage ideas, improvements and measured risk taking within own area to deliver better approaches and services",
+                "ineffective": "Restrict changes to own portfolio – do not integrate or align with change in other areas"
+              },
+              {
+                "effective": "Encourage a culture of imaginative thinking, seek to expand mindsets and genuinely listen to ideas from employees and stakeholders",
+                "ineffective": "Create a punitive environment for risk taking and responsive decision making – show intolerance of mistakes"
+              },
+              {
+                "effective": "Identify step changes that quickly transform flexibility, responsiveness and quality of service",
+                "ineffective": "Allow own area to become outdated and out of step with evolving changes and wider service requirements"
+              },
+              {
+                "effective": "Challenge the status quo in own and related areas to achieve value-adding improvements and change",
+                "ineffective": "Contribute to a culture of inertia across own portfolio of activities by focusing managers on delivering things as they always have"
+              },
+              {
+                "effective": "Lead the transformation of services to users, moving to a digital approach whenever possible",
+                "ineffective": "Miss opportunities to use alternative delivery models"
+              },
+              {
+                "effective": "Create effective plans, systems and governance to manage change and respond promptly to critical events",
+                "ineffective": "Adopt an unsystematic approach to change management – cause confusion about priorities and timelines"
+              }
+            ],
+            "level6": [
+              {
+                "effective": "Challenge bureaucratic decision making, resourcing structures and processes across the Department and Civil Service to create a lean, flat and effective organisation.",
+                "ineffective": "Create/tolerate bureaucracies and inefficient ways of working which hinder effectiveness"
+              },
+              {
+                "effective": "Seek out opportunities for innovation and have the courage to take risks and make step changes to how things are done",
+                "ineffective": "Argue to retain the status quo, support current approaches, activities and processes without challenge, avoiding innovations and risks"
+              },
+              {
+                "effective": "Rethink systems and partnership approaches to simplify the Department and Civil Service",
+                "ineffective": "Continue with ineffective systems and partnership approaches"
+              },
+              {
+                "effective": "Create a culture of flexibility and responsiveness, mobilising the Department to respond swiftly to changing priorities",
+                "ineffective": "Tolerate colleagues operating in rigid, bureaucratic ways"
+              },
+              {
+                "effective": "Challenge the status quo and accepted assumptions at the highest levels across the Civil Service",
+                "ineffective": "Support incremental improvements within isolated areas rather than any fundamental shifts in approach"
+              },
+              {
+                "effective": "Consider fully the impact of change on organisation culture, wider Government structures and economic growth",
+                "ineffective": "Adopt a piecemeal approach to change management, focusing on tasks at the expense of culture and morale"
+              }
+            ],
+            "title": "Changing and Improving"
+          }
+        ],
+        "making-effective-decisions": [
+          {
+            "description": "Effectiveness in this area is about being objective; using sound judgement, evidence and knowledge to provide accurate, expert and professional advice. For all staff, it means showing clarity of thought, setting priorities, analysing and using evidence to evaluate options before arriving at well reasoned justifiable decisions. At senior levels, leaders will be creating evidence based strategies, evaluating options, impacts, risks and solutions. They will aim to maximise return while minimising risk and balancing social, political, financial, economic and environmental considerations to provide sustainable outcomes.",
+            "level1": [
+              {
+                "effective": "Make and record effective decisions following the appropriate decision making criteria, framework or guidance",
+                "ineffective": "Compromise the consistency and quality of decision making"
+              },
+              {
+                "effective": "Ask questions when unsure what to do",
+                "ineffective": "Fail to research or use relevant information or support to carry out tasks"
+              },
+              {
+                "effective": "Undertake appropriate analysis to support decisions or recommendations",
+                "ineffective": "Make decisions or recommendations without the evidence to back them up"
+              },
+              {
+                "effective": "Investigate and respond to gaps, errors and irregularities in information",
+                "ineffective": "Overlook anomalies in evidence presented"
+              },
+              {
+                "effective": "Speak up to clarify decisions and query these constructively",
+                "ineffective": "Miss opportunities to take part in constructive conversations about decisions made"
+              },
+              {
+                "effective": "Think through the implications of own decisions before confirming how to approach a problem/issue",
+                "ineffective": "Give limited consideration to the impact of their decisions"
+              }
+            ],
+            "level2": [
+              {
+                "effective": "Demonstrate accountability and make unbiased decisions",
+                "ineffective": "Avoid making decisions that lie within own remit; continually push decisions up"
+              },
+              {
+                "effective": "Examine complex information and obtain further information to make accurate decisions",
+                "ineffective": "Miss important evidence or make hasty judgements"
+              },
+              {
+                "effective": "Speak with the relevant people in order to obtain the most accurate information and get advice when unsure of how to proceed",
+                "ineffective": "Encounter problems by failing to check issues and relevance of information before using it"
+              },
+              {
+                "effective": "Explain clearly, verbally and in writing, how a decision has been reached",
+                "ineffective": "Share decisions in a way that leads to frustration or additional work"
+              },
+              {
+                "effective": "Provide advice and feedback to support others to make accurate decisions",
+                "ineffective": "Provide limited or no assurance that the right decisions are being made in team/work area"
+              },
+              {
+                "effective": "Monitor the storage of critical data and customer information to support decision making and conduct regular reviews to ensure it is stored accurately, confidentially and responsibly",
+                "ineffective": "Take little care with data and information storage; allow inaccuracies and mishandling to occur"
+              }
+            ],
+            "level3": [
+              {
+                "effective": "Make decisions when they are needed, even if they prove difficult or unpopular",
+                "ineffective": "Miss opportunities or deadlines by delaying decisions"
+              },
+              {
+                "effective": "Identify a range of relevant and credible information sources and recognise the need to collect new data when necessary from internal and external sources",
+                "ineffective": "Only use evidence sources that support arguments or are easily accessible"
+              },
+              {
+                "effective": "Recognise patterns and trends in a wide range of evidence/data and draw key conclusions",
+                "ineffective": "Come to conclusions that are not supported by evidence"
+              },
+              {
+                "effective": "Explore different options outlining costs, benefits, risks and potential responses to each",
+                "ineffective": "Give little consideration to the people and resources impacted by decisions"
+              },
+              {
+                "effective": "Recognise scope of own authority for decision making and empower team members to make decisions",
+                "ineffective": "Create confusion by omitting to inform relevant people of amendments or decisions causing delays in implementation"
+              },
+              {
+                "effective": "Invite challenge and where appropriate involve others in decision making to help build engagement and present robust recommendations",
+                "ineffective": "Consistently make decisions in isolation or with a select group"
+              }
+            ],
+            "level4": [
+              {
+                "effective": "Push decision making to the right level within their teams, not allow unnecessary bureaucracy and structure to suppress innovation and delivery",
+                "ineffective": "Involve only those in their peer group or direct reporting line in decision making"
+              },
+              {
+                "effective": "Weigh up data from various sources, recognising when to bring in experts/researchers to add to available information",
+                "ineffective": "Underestimate the work required to consider all the evidence needed and do not involve experts sufficiently early"
+              },
+              {
+                "effective": "Analyse and evaluate pros and cons and identify risks in order to make decisions that take account of the wider context, including diversity and sustainability",
+                "ineffective": "Take decisions without regard for the context, organisation risk, alignment with wider agendas or impacts (economic, social and environmental)"
+              },
+              {
+                "effective": "Draw together and present reasonable conclusions from a wide range of incomplete and complex evidence and data – able to act or decide even when details are not clear",
+                "ineffective": "Get confused by complexity and ambiguity and consider only simple or straightforward evidence"
+              },
+              {
+                "effective": "Identify the main issues in complex problems, clarify understanding or stakeholder expectations, to seek best option",
+                "ineffective": "Rely too heavily on gut instinct and provide unclear, incoherent or illogical analysis of core issues"
+              },
+              {
+                "effective": "Make difficult decisions by pragmatically weighing the complexities involved against the need to act",
+                "ineffective": "Make expedient decisions that offer less resistance or risk to themselves rather than decisions that are best for the business"
+              }
+            ],
+            "level5": [
+              {
+                "effective": "Interpret a wide range of political and national pressures and influences to develop strategies",
+                "ineffective": "Give limited consideration to long-term sustainability or diversity impacts when shaping strategies and plans"
+              },
+              {
+                "effective": "Weigh up competing views to generate ways forward which will meet organisational goals",
+                "ineffective": "Have to continually revisit decisions due to lack of or poor quality analysis and evidence"
+              },
+              {
+                "effective": "Ensure involvement and consultation where necessary and take decisive action when required",
+                "ineffective": "Fail to follow a broad consultation process when coming to key decisions"
+              },
+              {
+                "effective": "Articulate options and large-scale reputational risks and impacts, including economic, environmental, political and social, and recommend plans to manage and mitigate",
+                "ineffective": "Provide advice without full consideration of risk, scenarios and options"
+              },
+              {
+                "effective": "Take quick, confident decisions at a strategic level to move things forward",
+                "ineffective": "Constantly change decisions based on new opinions, information or challenge"
+              },
+              {
+                "effective": "Outline direction of travel, recommendations and decisions for their area, taking account of financial and implementation issues",
+                "ineffective": "Overlook key information relating to cost and implementation issues"
+              }
+            ],
+            "level6": [
+              {
+                "effective": "Navigate and balance a range of political, national and international pressures to shape the Department's strategy and priorities",
+                "ineffective": "Omit consideration of sustainable long-term development in strategy and give limited consideration to social, environmental or economic factors in analysis"
+              },
+              {
+                "effective": "Swiftly analyse complex and ambiguous data to provide clarity of thinking to the Department",
+                "ineffective": "Lack confidence in making decisions when the situation is unclear and constantly call for more information"
+              },
+              {
+                "effective": "Involve the right stakeholders and partners in making recommendations or decisions early on and continue to engage them",
+                "ineffective": "Provide recommendations or decisions without full and proper consultation"
+              },
+              {
+                "effective": "Identify and evaluate risks and options and develop Department wide strategies to manage and mitigate",
+                "ineffective": "Provide advice without full evaluation of risk, scenarios and options"
+              },
+              {
+                "effective": "Make unpopular decisions and defend them at the highest level when required",
+                "ineffective": "Constantly change decisions based on new opinions, information or challenge"
+              },
+              {
+                "effective": "Give unbiased advice to Ministers based on robust analysis, not just what is welcomed",
+                "ineffective": "Opt to give advice which the Minister/stakeholder wants to hear and ignore contrary evidence"
+              }
+            ],
+            "title": "Making Effective Decisions"
+          }
+        ],
+        "seeing-the-big-picture": [
+          {
+            "description": "Seeing the big picture is about having an in-depth understanding and knowledge of how your role fits with and supports organisational objectives and the wider public needs. For all staff, it is about focusing your contribution on the activities which will meet Civil Service goals and deliver the greatest value. At senior levels, it is about scanning the political context and taking account of wider impacts to develop long term implementation strategies that maximise opportunities to add value to the citizen and support economic, sustainable growth.",
+            "title": "Seeing the Big Picture"
+          }
+        ],
+        "seeing-the-bigger-picture": {
+          "level1": [
+            {
+              "effective": "Gather information from a range of relevant sources inside and outside their Department to inform own work",
+              "ineffective": "Take actions/decisions without regard to the bigger picture"
+            },
+            {
+              "effective": "Understand what is required of them in their role and how this contributes to team and Departmental priorities",
+              "ineffective": "Show little interest in the work of the Department, not appreciating they have a role in meeting priorities"
+            },
+            {
+              "effective": "Consider how their own job links with and impacts on colleagues and others in partner organisations",
+              "ineffective": "Work on own tasks in isolation showing little interest in the wider context and relevant developments outside their immediate area"
+            }
+          ],
+          "level2": [
+            {
+              "effective": "Keep up to date with a broad set of issues relating to the work of the Department",
+              "ineffective": "Have a narrow view of their role, without understanding the Department's wider activities"
+            },
+            {
+              "effective": "Develop understanding of how own and team's work supports achievement of Departmental priorities and delivery to the citizen",
+              "ineffective": "Carry out own tasks without considering how their work impacts or interacts with other teams"
+            },
+            {
+              "effective": "Focus on the overall goal and intent of what they are trying to achieve, not just the task",
+              "ineffective": "Fail to identify occasions when professional judgement and personal initiative are called for in order to deliver business objectives"
+            },
+            {
+              "effective": "Take an active interest in expanding their knowledge of areas related to own role",
+              "ineffective": "Rely solely on the knowledge they have already established about their role"
+            }
+          ],
+          "level3": [
+            {
+              "effective": "Be alert to emerging issues and trends which might impact or benefit own and team's work",
+              "ineffective": "Ignore changes in the external environment that have implications for Departmental policy and considerations"
+            },
+            {
+              "effective": "Develop an understanding of own area's strategy and how this contributes to Departmental priorities",
+              "ineffective": "Shows limited interest in or understanding of Departmental priorities and what they mean for activities in their area"
+            },
+            {
+              "effective": "Ensure own area/team activities are aligned to Departmental priorities",
+              "ineffective": "Be overly focused on team and individual activities without due regard for how they meet the demands of the Department as a whole"
+            },
+            {
+              "effective": "Actively seek out and share experience to develop understanding and knowledge of own work and of team's business area",
+              "ineffective": "Take actions which conflict with or mis-align to other activities"
+            },
+            {
+              "effective": "Seek to understand how the services, activities and strategies in the area work together to create value for the customer/end user",
+              "ineffective": "Commit to actions without consideration of the impact on the diverse needs of customers/end users – apply a „one size fits all' approach"
+            }
+          ],
+          "level4": [
+            {
+              "effective": "Anticipate economic, social, political, environmental and technological developments to keep activity relevant and targeted",
+              "ineffective": "Demonstrate lack of knowledge and insight into wider issues, developments and impacts related to own business area"
+            },
+            {
+              "effective": "Identify implications of Departmental and political priorities and strategy on own area to ensure plans and activities reflect these",
+              "ineffective": "Operate within own area without sufficient regard to how it creates value and supports the delivery ofDepartmental goals"
+            },
+            {
+              "effective": "Create policies, plans and service provision to meet citizens' diverse needs based on an up-to-date knowledge of needs, issues and relevant good practice",
+              "ineffective": "Continue to apply outdated practices which are unable to meet the diverse needs of citizens"
+            },
+            {
+              "effective": "Ensures relevant issues relating to their activity/policy area are effectively fed into strategy and big picture considerations",
+              "ineffective": "Miss opportunities to ensure important issues are considered by senior staff, raises small details as big picture issues"
+            },
+            {
+              "effective": "Adopt a Government-wide perspective to ensure alignment of activity and policy",
+              "ineffective": "Only consider the context of own business area and not those of others or of the organisation as a whole"
+            },
+            {
+              "effective": "Bring together views and perspectives of stakeholders to gain a wider picture of the landscape surrounding activities and policies",
+              "ineffective": "Lack clarity of or interest in gaining wider stakeholder perspectives"
+            }
+          ],
+          "level5": [
+            {
+              "effective": "Anticipate and predict the long term impact of national and international developments, including economic, political, environmental, social and technological, on own area",
+              "ineffective": "Have limited insight into the changes and developments surrounding own area"
+            },
+            {
+              "effective": "Identify and shape how own area fits within and supports the work of the Department",
+              "ineffective": "Give limited attention to the bigger issues and interactions across departments and outside the Civil Service when defining strategy"
+            },
+            {
+              "effective": "Develop an in-depth insight into customers, citizens, services, communities and markets affected by their area and the wider public sector context",
+              "ineffective": "Lack insight into the wider context for own area – take a simplistic perspective on the issues and concerns of stakeholders"
+            },
+            {
+              "effective": "Create joined up strategies and plans that have positive impact and add value for stakeholders, citizens and communities",
+              "ineffective": "Develop strategies and plans with limited reference to the impact and value they will bring to the key stakeholders and to citizens now and in the future"
+            },
+            {
+              "effective": "Shape strategies and plans which help put into practice and support the Department's vision and long-term direction, including those shared with other departments",
+              "ineffective": "Maintain a narrow perspective – allow own area to become out of step or work against the overall objectives of the Department"
+            }
+          ],
+          "level6": [
+            {
+              "effective": "Develop an in-depth insight into the dynamics and issues surrounding the Department and Government, including political, economic, social, environmental and technologicalimpacts",
+              "ineffective": "Focus on short term concerns, neglect long-term thinking about evolving and future issues and considerations for the Civil Service and Department"
+            },
+            {
+              "effective": "Clarify and shape the Department's role and purpose in delivering Civil Service priorities for the public and economic good",
+              "ineffective": "Show limited insight into Government expectations of the Department in generating value and growth in the UK"
+            },
+            {
+              "effective": "Understand where the Department sits within and aligns across the Civil Service",
+              "ineffective": "Focus on own immediate area of concern and not see interconnections across Civil Service"
+            },
+            {
+              "effective": "Articulate the Department's business model and help people see their role within it",
+              "ineffective": "Lack clarity about own role and that of staff in delivering the work of the Department"
+            },
+            {
+              "effective": "Create clear long-term strategies focused on adding value to the citizen and making real, lasting change beyond the Civil Service",
+              "ineffective": "Focus primarily on continuing historical activities based on short term priorities not linked to clear value and delivery for the citizen and the economy"
+            },
+            {
+              "effective": "Fully engage with and utilise Non Executive Directors wider experience and knowledge to support strategic decision making",
+              "ineffective": "Operate independently, without reference to the wider system of knowledge and experience around them"
+            }
+          ]
+        },
+        "title": "Strategic Cluster - Setting Direction"
+      }
+    ]
+  },
+  "copyright": "© Crown Copyright July 2012",
+  "description": "About this framework\n====================\n\nWe are introducing a new competency framework to support the Civil Service Reform Plan and the new\nperformance management system. The competency framework sets out how we want people in the Civil Service to\nwork. It puts the Civil Service values of honesty, integrity, impartiality and objectivity at the heart of everything we\ndo and it aligns to the three high level leadership behaviours that every civil servant needs to model: Set Direction;\nEngage People and Deliver Results. Civil servants work in a huge range of jobs across the country and overseas\nbut one thing we have in common is that we are here to support the elected Government, providing advice to help\nshape its policies and ensuring seamless and practical implementation in line with those policies.\n\nCompetencies are the skills, knowledge and behaviours that lead to successful performance. The framework\noutlines 10 competencies, which are grouped into 3 clusters as set out above. For each competency there is a\ndescription of what it means in practice and some examples of effective and ineffective behaviours at all levels.\nThe competencies are intended to be discrete and cumulative, with each level building on the levels below i.e. a\nperson demonstrating a competency at level 3 should be demonstrating levels 1 and 2 as a matter of course.\nThese indicators of behaviour are not designed to be comprehensive, but provide a clear sense of and greater\nunderstanding and consistency about what is expected from individuals in the Civil Service.\n\n## What does it mean for me?\n\nThe framework will be used for recruitment, performance management and development discussions and for\ndecisions about progression. Some Departments introduced it in April 2012 with the rest of Government doing so\nfrom April 2013. In these new arrangements your business objectives will set out “what” you need to achieve over\nthe year and this competency framework will set out “how” you need to work to achieve those objectives.\n\nMost of you will need to focus on a number of competencies, usually around six, identified with your manager as\nbeing essential to your role. You are encouraged to discuss the framework with your line manager to identify the\ncompetencies that apply most to your job role.\n\nThis framework has been developed in partnership with Civil Service professions. If you work as part of a\nprofession with a separate framework this will complement your professional framework and should be used\nalongside it.\n\nThe framework is made up of ten competencies. Below is a list of all the competencies with a high-level summary\nof each one.\n",
+  "title": "Civil Service Competency Framework"
+}
